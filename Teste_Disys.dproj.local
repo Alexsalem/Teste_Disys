@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/30 14:17:37.000.947,=C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 14:17:55.000.381,C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Menu.pas</Transaction>
+    <Transaction>2021/09/30 14:17:55.000.382,C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Menu.dfm</Transaction>
+    <Transaction>2021/09/30 14:19:23.000.846,C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\RASIK\Teste-Disys\Teste_Disys.dproj</Transaction>
+    <Transaction>2021/09/30 14:20:02.000.871,C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Menu.dfm=D:\RASIK\Teste-Disys\Menu.dfm</Transaction>
+    <Transaction>2021/09/30 14:20:02.000.871,C:\Users\alex-\Documents\Embarcadero\Studio\Projects\Menu.pas=D:\RASIK\Teste-Disys\Menu.pas</Transaction>
+    <Transaction>2021/09/30 14:20:30.000.599,=D:\RASIK\Teste-Disys\Cadastro.pas</Transaction>
+    <Transaction>2021/09/30 14:20:31.000.078,=D:\RASIK\Teste-Disys\DataModule.pas</Transaction>
+    <Transaction>2021/09/30 14:26:30.000.548,D:\RASIK\Teste-Disys\Cadastro.pas=</Transaction>
+    <Transaction>2021/09/30 14:45:36.000.901,=D:\RASIK\Teste-Disys\Cadastro.pas</Transaction>
+    <Transaction>2021/09/30 14:47:14.000.872,=D:\RASIK\Teste-Disys\Unit1.pas</Transaction>
+    <Transaction>2021/09/30 14:47:51.000.832,D:\RASIK\Teste-Disys\Unit1.dfm=D:\RASIK\Teste-Disys\Clientes.dfm</Transaction>
+    <Transaction>2021/09/30 14:47:51.000.832,D:\RASIK\Teste-Disys\Unit1.pas=D:\RASIK\Teste-Disys\Clientes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
